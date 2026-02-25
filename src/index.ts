@@ -1,7 +1,7 @@
 // src/index.ts
 
 function greet(name: string, umur: number): string {
-    return `Selamat datang `+name+` di PWL, umur `+name+` adalah;
+    return `Selamat datang `+name+` di PWL, Umur saya `+umur+``;
 }
 
 const mahasiswa = "Shalwa";
